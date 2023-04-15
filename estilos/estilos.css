@@ -211,7 +211,7 @@ p{
     border-bottom: 1px solid var(--terciario);
 }
 .entrada__contenido: last-child{
-    border: none;
+    border-bottom: none;
 }
 .boton{
     display: block;
