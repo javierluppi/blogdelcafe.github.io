@@ -210,6 +210,9 @@ p{
     text-align: justify;
     border-bottom: 1px solid var(--terciario);
 }
+.entrada__contenido: last-child{
+    border: none;
+}
 .boton{
     display: block;
     font-family: var(--fuenteheading);
