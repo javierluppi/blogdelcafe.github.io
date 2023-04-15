@@ -210,7 +210,7 @@ p{
     text-align: justify;
     border-bottom: 1px solid var(--terciario);
 }
-.entrada__contenido: last-child{
+.entrada:last-child{
     border-bottom: none;
 }
 .boton{
